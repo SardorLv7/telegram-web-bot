@@ -50,7 +50,7 @@ const App = () =>{
   }
 
   const onSendData = useCallback(() => {
-    const queryId = telegram.initDataUnsave?.query_id;
+    const queryId = telegram.initDataUnsafe?.query_id;
     if(queryId){
         fetch('https://sardortelegramwebbot-974ee95bb1e9.herokuapp.com/web-data',{
           method: 'POST',
