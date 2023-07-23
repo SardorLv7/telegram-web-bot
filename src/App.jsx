@@ -52,7 +52,7 @@ const App = () =>{
   const onSendData = useCallback(() => {
     const queryId = telegram.initDataUnsave?.query_id;
     if(queryId){
-        fetch('https://localhost:8000/web-data',{
+        fetch('https://sardortelegramwebbot-974ee95bb1e9.herokuapp.com/web-data',{
           method: 'POST',
           headers: {
             'Content-type': 'application/json', 
