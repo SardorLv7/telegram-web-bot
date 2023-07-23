@@ -57,10 +57,10 @@ const App = () =>{
           headers: {
             'Content-type': 'application/json', 
           },
-          body: JSON.stringify(cartItem),
+          body: JSON.stringify({products: cartItem, queryId: queryId}),
         })
       }else {
-      telegram.sendData(JSON.stringify({products: cartItem, queryId: queryId}))
+      telegram.sendData(JSON.stringify(cartItem))
     }
   }, [cartItem])
 
