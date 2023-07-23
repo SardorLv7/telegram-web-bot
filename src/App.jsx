@@ -60,7 +60,7 @@ const App = () =>{
           body: JSON.stringify(cartItem),
         })
       }else {
-      telegram.sendData(JSON.stringify(cartItem))
+      telegram.sendData(JSON.stringify({products: cartItem, queryId: queryId}))
     }
   }, [cartItem])
 
