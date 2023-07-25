@@ -1,7 +1,7 @@
 export function getData() {
 	return [
 		{
-			title: 'Komyuter Savodxonligi',
+			title: 'Hod Dog',
 			price: 17.99,
 			Image:
 				'https://sammi.ac/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F3gf746AKRbWNjB8OCoEB&w=3840&q=75',
