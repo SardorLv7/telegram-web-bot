@@ -1,14 +1,14 @@
 export function getData() {
 	return [
 		{
-			title: 'JavaScript',
+			title: 'Komyuter Savodxonligi',
 			price: 17.99,
 			Image:
 				'https://sammi.ac/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F3gf746AKRbWNjB8OCoEB&w=3840&q=75',
 			id: 1,
 		},
 		{
-			title: 'ReactJS',
+			title: 'FrontEnd dasturlash',
 			price: 15,
 			Image:
 				'https://sammi.ac/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2F65rcPxsLT9ysJDisXF80&w=3840&q=75',
