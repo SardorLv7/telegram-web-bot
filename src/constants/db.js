@@ -102,7 +102,7 @@ export function getData() {
 			title: 'Donar',
 			price: 28.99,
 			Image:
-				'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fmasterfoodtashkent%2Fposts%2Ftovuqli-donar-juda-yaxshi-agar-hali-tatib-kormagan-bolsangiz-buni-togrilashning-%2F626974138181416%2F%3Flocale%3Dms_MY&psig=AOvVaw3TGvmNIgOHHMdKVRrVbDp2&ust=1690345131320000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPjD0J6AqYADFQAAAAAdAAAAABAe',
+				'/client/src/constants/img/15.jfif',
 			id: 15,
 		},
 
