@@ -32,7 +32,7 @@ export function getData() {
 			title: 'Fried chicken',
 			price: 12.5,
 			Image:
-				'https://sammi.ac/_next/image?url=https%3A%2F%2Fmedia.graphassets.com%2FNEc4MOBIQy6xlvymdNJP&w=1920&q=75',
+				'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fcrispy-fried-chicken%2F&psig=AOvVaw1LbZ0oYIonfJVI7XPQqwji&ust=1690344739144000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCMDx9uP-qIADFQAAAAAdAAAAABAE',
 			id: 5,
 		},
 		{
@@ -102,7 +102,7 @@ export function getData() {
 			title: 'Donar',
 			price: 28.99,
 			Image:
-				'/client/src/constants/img/15.jfif',
+				'https://img.theculturetrip.com/wp-content/uploads/2016/07/donner_kebab_cologne_germany_10579191691.jpg',
 			id: 15,
 		},
 
