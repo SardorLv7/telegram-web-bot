@@ -95,7 +95,7 @@ export function getData() {
 			title: 'Lavash',
 			price: 28.99,
 			Image:
-				'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.taste.com.au%2Frecipes%2Fvegie-lavash-spirals%2Fd4b8bccb-001d-476d-8681-2df21a62fdbc&psig=AOvVaw0BGNO2YvQfCv3IBSMHC0Q7&ust=1690345087705000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCOCZ9omAqYADFQAAAAAdAAAAABAJ',
+				'https://www.google.com/url?sa=i&url=https%3A%2F%2Fsevimli-lavash.uz%2Fen%2Fproducts%2Fdonar-standard-55%2F&psig=AOvVaw3TGvmNIgOHHMdKVRrVbDp2&ust=1690345131320000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPjD0J6AqYADFQAAAAAdAAAAABAm',
 			id: 14,
 		},
 		{
